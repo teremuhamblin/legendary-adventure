@@ -1,14 +1,16 @@
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/legendary_adventure-Enterprise%20Project-0052CC?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<h1 align="center">🗺️ Legendary Adventure — Enterprise Exploration Framework</h1>
+<h1 align="left">
+🗺️ Legendary Adventure
+Enterprise Exploration Framework</h1>
 
 <p align="center">
   <em>Un framework professionnel pour créer, gérer et automatiser des aventures interactives.</em>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/github/v/tag/Teremu/legendary-adventure?label=Version&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/actions/workflow/status/Teremu/legendary-adventure/ci.yml?label=CI&style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Node.js-20.x-339933?style=for-the-badge&logo=node.js&logoColor=white" />
