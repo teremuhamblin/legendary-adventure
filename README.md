@@ -27,14 +27,19 @@ Enterprise Exploration Framework</h1>
 
 ## 📘🗺️ Legendary Adventure 
 > — Enterprise Exploration Framework
-- Legendary Adventure est un framework professionnel conçu pour créer, orchestrer et automatiser des aventures interactives, narratives ou procédurales.
+```md
+>> Legendary Adventure est un framework professionnel conçu pour créer,
+>> orchestrer et automatiser des aventures interactives, narratives ou procédurales
+```
 
 ### ✨ Fonctionnalités principales
+```bash
 - Génération dynamique de scénarios
 - Système d’événements avancé
 - Architecture modulaire
 - Support CI/CD complet
 - Badges dynamiques entreprise
+```
 
 ### 📦 Installation
 ```bash
@@ -49,11 +54,17 @@ const game = new Adventure();
 game.start();
 ```
 
-### 🗺️ Roadmap
+---
+
+```md
+🗺️ Roadmap
 Voir : docs/ROADMAP.md
 
-### 📜 Licence
+---
+
+📜 Licence
 MPL-2.0 — voir LICENSE
+```
 
 ---
 
