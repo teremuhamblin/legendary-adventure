@@ -25,8 +25,7 @@
 
 📘🗺️ Legendary Adventure 
 > — Enterprise Exploration Framework
-
-Legendary Adventure est un framework professionnel conçu pour créer, orchestrer et automatiser des aventures interactives, narratives ou procédurales.
+- Legendary Adventure est un framework professionnel conçu pour créer, orchestrer et automatiser des aventures interactives, narratives ou procédurales.
 
 ✨ Fonctionnalités principales
 - Génération dynamique de scénarios
