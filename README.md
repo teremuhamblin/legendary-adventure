@@ -1,14 +1,21 @@
+###### README.md >> markdown
+
 <p align="right">
   <img src="https://img.shields.io/badge/legendary_adventure-Enterprise%20Project-0052CC?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<h1 align="left">
-🗺️ Legendary Adventure
-Enterprise Exploration Framework</h1>
+---
 
-<p align="center">
-  <em>Un framework professionnel pour créer, gérer et automatiser des aventures interactives.</em>
+# 🗺️ Legendary 
+>Adventure
+- Enterprise Exploration Framework
+
+<p align="left">
+  
+Un framework professionnel pour créer, gérer et automatiser des aventures interactives
 </p>
+
+---
 
 <p align="right">
   <img src="https://img.shields.io/github/v/tag/Teremu/legendary-adventure?label=Version&color=blueviolet&style=for-the-badge" />
@@ -19,37 +26,39 @@ Enterprise Exploration Framework</h1>
 
 ---
 
-<p align="center">
-  <strong>⚔️ Aventures dynamiques • 🛡️ Qualité entreprise • ⚙️ Automatisation complète • 🚀 CI/CD optimisé</strong>
-</p>
+``` md
+>> ⚔️ Aventures dynamiques
+    • 🛡️ Qualité entreprise 
+    • ⚙️ Automatisation complète 
+    • 🚀 CI/CD optimisé</strong>
+```
 
 ---
 
-## 📘🗺️ Legendary Adventure 
-> — Enterprise Exploration Framework
+## 📘🗺️ Framework
+>Enterprise Exploration 
 ```md
 >> Legendary Adventure est un framework professionnel conçu pour créer,
 >> orchestrer et automatiser des aventures interactives, narratives ou procédurales
 ```
 
-### ✨ Fonctionnalités principales
-```bash
+---
+
+## ✨ Fonctionnalités principales
+```md
 - Génération dynamique de scénarios
 - Système d’événements avancé
 - Architecture modulaire
 - Support CI/CD complet
 - Badges dynamiques entreprise
 ```
-
 ### 📦 Installation
 ```bash
 npm install legendary-adventure
 ```
-
 ### 🚀 Utilisation
 ```js
 import { Adventure } from "legendary-adventure";
-
 const game = new Adventure();
 game.start();
 ```
@@ -57,12 +66,9 @@ game.start();
 ---
 
 ```md
-🗺️ Roadmap
+>> 🗺️ Roadmap
 Voir : docs/ROADMAP.md
-
----
-
-📜 Licence
+>> 📜 Licence
 MPL-2.0 — voir LICENSE
 ```
 
@@ -70,7 +76,8 @@ MPL-2.0 — voir LICENSE
 
 <p align="center">
   <sub>
-    Projet <strong>legendary-adventure</strong> — Framework professionnel d’aventures interactives.<br/>
+    Projet <strong>legendary-adventure
+    </strong>Framework professionnel d’aventures interactives.<br/>
     Développé par <strong>TheMadDoG. tmdg</strong>.
   </sub>
 </p>
