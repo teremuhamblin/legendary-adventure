@@ -25,23 +25,23 @@ Enterprise Exploration Framework</h1>
 
 ---
 
-📘🗺️ Legendary Adventure 
+## 📘🗺️ Legendary Adventure 
 > — Enterprise Exploration Framework
 - Legendary Adventure est un framework professionnel conçu pour créer, orchestrer et automatiser des aventures interactives, narratives ou procédurales.
 
-✨ Fonctionnalités principales
+### ✨ Fonctionnalités principales
 - Génération dynamique de scénarios
 - Système d’événements avancé
 - Architecture modulaire
 - Support CI/CD complet
 - Badges dynamiques entreprise
 
-📦 Installation
+### 📦 Installation
 ```bash
 npm install legendary-adventure
 ```
 
-🚀 Utilisation
+### 🚀 Utilisation
 ```js
 import { Adventure } from "legendary-adventure";
 
@@ -49,10 +49,10 @@ const game = new Adventure();
 game.start();
 ```
 
-🗺️ Roadmap
+### 🗺️ Roadmap
 Voir : docs/ROADMAP.md
 
-📜 Licence
+### 📜 Licence
 MPL-2.0 — voir LICENSE
 
 ---
@@ -60,15 +60,12 @@ MPL-2.0 — voir LICENSE
 <p align="center">
   <sub>
     Projet <strong>legendary-adventure</strong> — Framework professionnel d’aventures interactives.<br/>
-    Développé par <strong>Teremu</strong>.
+    Développé par <strong>TheMadDoG. tmdg</strong>.
   </sub>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/license/Teremu/legendary-adventure?style=flat-square" />
 </p>
-
----
-`
 
 ---
