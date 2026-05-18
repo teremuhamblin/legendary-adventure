@@ -35,17 +35,17 @@
 - Badges dynamiques entreprise
 
 📦 Installation
-`bash
+```bash
 npm install legendary-adventure
-`
+```
 
 🚀 Utilisation
-`js
+```js
 import { Adventure } from "legendary-adventure";
 
 const game = new Adventure();
 game.start();
-`
+```
 
 🗺️ Roadmap
 Voir : docs/ROADMAP.md
