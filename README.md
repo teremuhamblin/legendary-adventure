@@ -17,12 +17,10 @@ Un framework professionnel pour créer, gérer et automatiser des aventures inte
 
 ---
 
-<p align="right">
-  <img src="https://img.shields.io/github/v/tag/Teremu/legendary-adventure?label=Version&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/actions/workflow/status/Teremu/legendary-adventure/ci.yml?label=CI&style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Node.js-20.x-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/github/license/Teremu/legendary-adventure?style=for-the-badge&color=yellow" />
-</p>
+<p align="center">
+  <img src="https://img.shields.io/github/v/tag/teremuhamblin/legendary-adventure?label=Version&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/actions/workflow/status/teremuhamblin/legendary-adventure/ci.yml?label=CI&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Node.js-20.1.1-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
 ---
 
@@ -73,17 +71,16 @@ MPL-2.0 — voir LICENSE
 ```
 
 ---
-
 <p align="center">
   <sub>
-    Projet <strong>legendary-adventure
-    </strong>Framework professionnel d’aventures interactives.<br/>
-    Développé par <strong>TheMadDoG. tmdg</strong>.
+    Projet <strong>Legendary-Adventure</strong><br/>
+    Framework professionnel d’aventures interactives.<br/>
+    Développé par <strong>TheMadDoG.tmdg</strong>.
   </sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/Teremu/legendary-adventure?style=flat-square" />
+  <img src="https://img.shields.io/github/license/teremuhamblin/legendary-adventure?style=flat-square" />
 </p>
 
 ---
