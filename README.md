@@ -6,7 +6,8 @@
 
 ---
 
-# 🗺️ Legendary 
+# 🗺️ Legendary
+[![CI](https://github.com/teremuhamblin/legendary-adventure/actions/workflows/ci.yml/badge.svg)](https://github.com/teremuhamblin/legendary-adventure/actions/workflows/ci.yml)
 >Adventure
 - Enterprise Exploration Framework
 
