@@ -1,0 +1,75 @@
+name: 🐛 Bug report
+description: Report a bug to help us improve Legendary Adventure.
+labels: [bug]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci d’avoir pris le temps de signaler un bug 🙏
+
+  - type: input
+    id: summary
+    attributes:
+      label: Résumé
+      description: Décris le bug en une phrase.
+      placeholder: Exemple : Crash lors du chargement de la carte principale.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Étapes pour reproduire
+      description: Liste les étapes pour reproduire le problème.
+      placeholder: |
+        1. Aller sur '...'
+        2. Cliquer sur '...'
+        3. Observer '...'
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportement attendu
+      placeholder: Ce que tu pensais voir…
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Comportement observé
+      placeholder: Ce que tu as réellement vu…
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Sévérité
+      options:
+        - 🟢 Mineur
+        - 🟡 Gênant
+        - 🔴 Bloquant
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      placeholder: ex. v1.2.3
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / captures d’écran
+      description: Ajoute tout log ou capture utile.
+      render: shell
+    validations:
+      required: false
