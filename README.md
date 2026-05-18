@@ -52,7 +52,7 @@ game.start();
 Voir : docs/ROADMAP.md
 
 📜 Licence
-MIT — voir LICENSE
+MPL-2.0 — voir LICENSE
 
 ---
 
